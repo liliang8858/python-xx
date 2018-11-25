@@ -1,0 +1,12 @@
+Year,WHD region,Country,Beverage
+1986,westorn1 , vlet nan1,wine1
+1985,westorn2 , vlet nan2,wine12
+1986,westorn3 , vlet nan3,wine2
+1987,westorn4 , vlet nan5,wine3
+1986,westorn5 , vlet nan6,wine4
+1987,westorn6 , vlet nan7,wine56
+1984,westorn7 , vlet nan8,wine6
+1985,westorn8 , vlet na0n,wine78
+1984,westorn9 , vlet nan9,wine8
+1985,westorn0 , vlet nan1,wine9
+1984,westorn11 , vlet nan11,wine01
